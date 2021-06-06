@@ -1,0 +1,37 @@
+name: treshop
+description: A new Flutter project.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  smooth_star_rating:
+    git:
+      url: https://github.com/educup/smoothratingbar
+  auto_size_text: ^3.0.0-nullsafety.0
+  cached_network_image: ^3.0.0
+  cupertino_icons: ^1.0.2
+  flutter_feather_icons: ^2.0.0+1
+  flutter_staggered_grid_view: ^0.4.0
+  flutter_svg: ^0.22.0
+  fluttertoast: ^8.0.7
+  get: ^4.1.4
+  google_fonts: ^2.1.0
+  icon_badge: ^1.0.0
+  provider: ^5.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  generate: true
+  uses-material-design: true
+  assets:
+    - assets/

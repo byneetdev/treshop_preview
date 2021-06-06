@@ -1,0 +1,29 @@
+class CustomIcon {
+  static const String apple = 'assets/apple.svg';
+  static const String facebook = 'assets/facebook.svg';
+  static const String google = 'assets/google.svg';
+  static const String logo = 'assets/logo.svg';
+  static const String bag = 'assets/bag.svg';
+  static const String blouse = 'assets/blouse.svg';
+  static const String flat_shoes = 'assets/flat_shoes.svg';
+  static const String hat = 'assets/hat.svg';
+  static const String high_hills = 'assets/high_hills.svg';
+  static const String jacket = 'assets/jacket.svg';
+  static const String jeans = 'assets/jeans.svg';
+  static const String sandal = 'assets/sandal.svg';
+  static const String shirt = 'assets/shirt.svg';
+  static const String singlet = 'assets/singlet.svg';
+  static const String skirt = 'assets/skirt.svg';
+  static const String sneaker = 'assets/sneaker.svg';
+  static const String socks = 'assets/socks.svg';
+  static const String tshirt = 'assets/tshirt.svg';
+  static const String watch = 'assets/watch.svg';
+  static const String suit = 'assets/suit.svg';
+  static const String coupon = 'assets/coupon.svg';
+  static const String shopping_bag = 'assets/shopping_bag.svg';
+  static const String visa = 'assets/visa.svg';
+  static const String mastercard = 'assets/mastercard.svg';
+  static const String bca = 'assets/bca.svg';
+  static const String paypal = 'assets/paypal.svg';
+  static const String gift = 'assets/gift.svg';
+}
